@@ -1,4 +1,4 @@
-# 김여은 | Computer Engineer
+# 🌼 김여은 | Computer Engineer
 
 Hongik University, Department of Computer Engineering  
 2022.03 ~ 2026.02
