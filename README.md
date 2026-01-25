@@ -36,4 +36,5 @@ Hongik University, Department of Computer Engineering
 ---
 
 > 예외 상황이 서비스 전체로 번지지 않도록 안정적인 흐름을 설계합니다.
+
 > 사용자가 멈추지 않고 경험을 이어갈 수 있는 구조를 만듭니다.
