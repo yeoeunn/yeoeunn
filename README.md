@@ -9,7 +9,7 @@ Hongik University, Department of Computer Engineering
 
 | 기간 | 역할 | 프로젝트 |
 |---|---|---|
-| 2025.12 ~ | BE | [RFID 기반 축제 운영 플랫폼 **PlayTab**](https://github.com/Playtab-labs/user-service) |
+| 2025.12 ~ | BE | [RFID 기반 축제 운영 플랫폼 **PlayTab**](https://github.com/Playtab-labs) |
 | 2025.08 ~ 2025.12 | BE | [B2B HR Tech SaaS **JoyCrew**](https://github.com/JoyCrew/backend) |
 | 2025.05 ~ 2025.12 | BE | [Web3 협업 플랫폼 **Chainee**](https://github.com/Hongik-Chainee/backend) |
 | 2024.12 ~ 2025.02 | BE | [카카오톡 대화 기반 선물 추천 서비스 **Presentalk**](https://github.com/HongikComputerClub/backend) |
