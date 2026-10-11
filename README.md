@@ -1,7 +1,7 @@
 # 🌼 김여은 | Computer Engineer
 
 Hongik University, Department of Computer Engineering  
-2022.03 ~ 2026.02
+2022.03 ~ 2026.08
 
 ---
 
@@ -9,7 +9,7 @@ Hongik University, Department of Computer Engineering
 
 | 기간 | 역할 | 프로젝트 |
 |---|---|---|
-| 2025.12 ~ | BE | [RFID 기반 축제 운영 플랫폼 **PlayTab**](https://github.com/Playtab-labs) |
+| 2025.12 ~ 2026.05 | BE | [RFID 기반 축제 운영 플랫폼 **PlayTab**](https://github.com/Playtab-labs) |
 | 2025.08 ~ 2025.12 | BE | [B2B HR Tech SaaS **JoyCrew**](https://github.com/JoyCrew/backend) |
 | 2025.05 ~ 2025.12 | BE | [Web3 협업 플랫폼 **Chainee**](https://github.com/Hongik-Chainee/backend) |
 | 2024.12 ~ 2025.02 | BE | [카카오톡 대화 기반 선물 추천 서비스 **Presentalk**](https://github.com/HongikComputerClub/backend) |
@@ -31,8 +31,7 @@ Hongik University, Department of Computer Engineering
   주식회사 판 · 개발 부서  
   PlayTap 실서비스 개발 참여  
   *(2026 서강대학교 축제 Odyssey 운영 서비스)*
-
----
-
-> 예외 상황이 서비스 전체로 번지지 않도록 안정적인 흐름을 설계합니다.  
-> 사용자가 멈추지 않고 경험을 이어갈 수 있는 구조를 만듭니다.
+- **2026.05 ~ 2026.09**
+  투이컨설팅 · 금융 IT 컨설팅 인턴
+  *미래에셋증권 전산시스템 이전 사업 PMO 참여*
+  (일정·산출물 관리, 테스트 계획 수립 지원, 이슈 추적 및 유관 부서 협업)
