@@ -9,6 +9,7 @@ Hongik University, Department of Computer Engineering
 
 | 기간 | 역할 | 프로젝트 |
 |---|---|---|
+| 2026.06 ~ 2026.09 | PMO | [투이컨설팅] (미래에셋증권 **전산센터 이전** 사업 PMO) |
 | 2025.12 ~ 2026.05 | BE | [RFID 기반 축제 운영 플랫폼 **PlayTab**](https://github.com/Playtab-labs) |
 | 2025.08 ~ 2025.12 | BE | [B2B HR Tech SaaS **JoyCrew**](https://github.com/JoyCrew/backend) |
 | 2025.05 ~ 2025.12 | BE | [Web3 협업 플랫폼 **Chainee**](https://github.com/Hongik-Chainee/backend) |
